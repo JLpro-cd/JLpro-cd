@@ -14,11 +14,11 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/Castro19/ccc-transfer-helper">Project 1</a></td>
+    <td><a href="https://github.com/Castro19/ccc-transfer-helper">CCC Transfer Helper</a></td>
     <td>A tool to help California community college students transfer to Cal Poly!</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/JLpro-cd/Python-Leetcode-Grind-Assistant">Project 2</a></td>
+    <td><a href="https://github.com/JLpro-cd/Python-Leetcode-Grind-Assistant">Python Leetcode Grind Assistant</a></td>
     <td>A React Frontend and Express Backend application for individuals looking to master Leetcode concepts in Python.</td>
   </tr>
 </table>
