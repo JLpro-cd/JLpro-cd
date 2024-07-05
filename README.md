@@ -27,6 +27,6 @@
 - **Languages:** Python, Javascript, C++/C, Java, SQL
 - **Frameworks:** React, Express
 
-## Contact Me
+## Feel free to contact me or connect with me on LinkedIn:
 - [Email](mailto:josuelopezpro@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/josuelopezpro/)
