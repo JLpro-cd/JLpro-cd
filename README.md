@@ -1,3 +1,1 @@
-# :-Hello, I am Josue Lopez-:
-
-#
+# :Josue Lopez:
