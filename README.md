@@ -1,3 +1,3 @@
-## Hello, I am Josue Lopez
+# Hello, I am Josue Lopez
 
-- I'm currently working on two different projects: 
+#
