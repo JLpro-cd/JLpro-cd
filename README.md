@@ -1,1 +1,3 @@
-# :Josue Lopez:
+<p align="center">
+  # Josue Lopez
+</p>
