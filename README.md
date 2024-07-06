@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/JLpro-cd/Python-Leetcode-Grind-Assistant">Python Leetcode Grind Assistant</a></td>
-    <td>A React Frontend and Express Backend application for individuals looking to master Leetcode concepts in Python.</td>
+    <td>A React Frontend and Express Backend application for individuals looking to master Leetcode concepts in Python through learning with an emphasis on specific problem "tricks".</td>
   </tr>
 </table>
 
