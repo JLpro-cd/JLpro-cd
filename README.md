@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Welcome to my GitHub profile! I am currently a Senior studying Computer Science at Cal Poly San Luis Obispo .
+  Welcome to my GitHub profile! I am currently a Senior studying Computer Science at Cal Poly San Luis Obispo.
 </p>
 
 ## Projects I'm currently working on:
@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Castro19/ccc-transfer-helper">CCC Transfer Helper</a></td>
-    <td>A tool to help California community college students transfer to Cal Poly SLO.</td>
+    <td>A tool to help California College Students create their schedule, find their earned degrees, and General Ed Completion using ASSIST API.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/JLpro-cd/Python-Leetcode-Grind-Assistant">Python Leetcode Grind Assistant</a></td>
