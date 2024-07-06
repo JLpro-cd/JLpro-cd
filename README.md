@@ -28,5 +28,5 @@
 - **Frameworks:** React, Express
 
 ## Feel free to contact me or connect with me on LinkedIn:
-- [Email](mailto:josuelopezpro@gmail.com)
+- josuelopezpro@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/josuelopezpro/)
