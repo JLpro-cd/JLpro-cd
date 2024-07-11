@@ -11,7 +11,7 @@
 <table>
   <tr>
     <th>Project</th>
-    <th>Description</th>
+    <th>What is it?</th>
   </tr>
   <tr>
     <td><a href="https://github.com/Castro19/ccc-transfer-helper">CCC Transfer Helper</a></td>
