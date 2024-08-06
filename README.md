@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Welcome to my GitHub profile! I am currently a Senior studying Computer Science at Cal Poly San Luis Obispo.
+  Hello, and Welcome to my GitHub profile! I am currently a Senior studying Computer Science at Cal Poly San Luis Obispo.
 </p>
 
 ## Projects I'm currently working on:
