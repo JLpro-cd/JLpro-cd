@@ -5,7 +5,7 @@
 <p align="center">
   Hello, and welcome to my GitHub profile! I am currently a Senior studying Computer Science at Cal Poly San Luis Obispo.
   <br><br>
-  I am passionate about all things tech, and love picking up new skills, especially those that help me positively impact others!
+  I am passionate about all things tech, and love picking up new skills, especially those that help me positively impact myself and others!
 </p>
 
 ## Projects I'm currently working on:
