@@ -8,9 +8,7 @@
   I am passionate about all things tech, and love picking up new skills, especially those that help me positively impact myself and others!
 </p>
 
-<p align="center">
-##Projects I'm currently working on:
-</p>
+## Projects I'm currently working on:
 
 <table>
   <tr>
