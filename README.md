@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-## Projects I'm currently working on:
+##Projects I'm currently working on:
 </p>
 
 <table>
