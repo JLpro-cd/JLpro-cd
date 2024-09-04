@@ -20,8 +20,8 @@
     <td>A tool to help California College Students create their schedule, find their earned degrees, and General Ed Completion using ASSIST API.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/JLpro-cd/Python-Leetcode-Grind-Assistant">Python Leetcode Grind Assistant</a></td>
-    <td>A React application for individuals looking to master Leetcode concepts in Python through learning with an emphasis on problem-solving 'tricks' and memorization of abstract patterns.</td>
+    <td><a href="https://github.com/JLpro-cd/Python-Leetcode-Grind-Assistant">Python LeetCode Grind Assistant</a></td>
+    <td>A React application for individuals looking to master LeetCode concepts in Python through learning with an emphasis on problem-solving 'tricks' and memorization of abstract patterns.</td>
   </tr>
 </table>
 
