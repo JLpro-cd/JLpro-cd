@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/JLpro-cd/Python-Leetcode-Grind-Assistant">Python LeetCode Grind Assistant</a></td>
-    <td>A React application for individuals looking to master LeetCode concepts in Python through learning with an emphasis on problem-solving 'tricks' and memorization of abstract patterns.</td>
+    <td>A React frontend and Django backend application for individuals looking to master LeetCode concepts in Python through learning with an emphasis on problem-solving 'tricks' and memorization of abstract patterns. Features include detailed examples and flashcards to enhance learning and retention.</td>
   </tr>
 </table>
 
