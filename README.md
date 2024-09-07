@@ -27,6 +27,7 @@
 
 ## Skills
 - **Languages:** Python, Javascript, C++/C, Java, SQL
+- **Frameworks/Libraries** React, Django
 
 ## Feel free to contact me or connect with me on LinkedIn:
 - josuelopezpro@gmail.com
