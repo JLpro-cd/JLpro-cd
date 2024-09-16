@@ -20,8 +20,8 @@
     <td>A tool to help California College Students create their schedule, find their earned degrees, and General Ed Completion using ASSIST API.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/JLpro-cd/Python-Leetcode-Grind-Assistant">Python LeetCode Grind Assistant</a></td>
-    <td>A React frontend and Django backend application for individuals looking to master LeetCode concepts in Python through learning with an emphasis on problem-solving 'tricks' and memorization of abstract patterns. Features include detailed examples and flashcards to enhance learning and retention.</td>
+    <td><a href="https://github.com/JLpro-cd/LeetCode-Launchpad">LeetCode Launchpad</a></td>
+    <td>A React frontend and Django backend application designed for newcomers to technical interview preparation. It offers a focused introduction to LeetCode problem categories and essential Python concepts, featuring detailed examples and interactive flashcards to enhance learning and retention.</td>
   </tr>
 </table>
 
