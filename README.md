@@ -26,7 +26,7 @@
 </table>
 
 ## Skills
-- **Languages:** Python, Javascript, C++/C, Java, SQL
+- **Languages:** Python, Java, C++/C, JavaScript, SQL
 - **Frameworks/Libraries** React, Django
 
 ## Feel free to contact me or connect with me on LinkedIn:
