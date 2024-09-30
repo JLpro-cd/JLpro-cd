@@ -5,7 +5,7 @@
 <p align="center">
   Hello, and welcome to my GitHub profile! I am currently a Senior studying Computer Science at Cal Poly San Luis Obispo.
   <br><br>
-   I am passionate about both front end and back end development, along with all things tech. I love picking up new skills, especially those that help me make a positive impact on myself and others!
+   I am passionate about both front-end and back-end development, along with all things tech. I love picking up new skills, especially those that help me make a positive impact on myself and others!
 </p>
 
 ## Projects I'm currently working on:
@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/JLpro-cd/LeetCode-Launchpad">LeetCode Launchpad</a></td>
-    <td>A React frontend and Django backend application designed for newcomers to technical interview preparation. It offers a focused introduction to LeetCode problem categories and essential Python concepts, featuring detailed examples and interactive flashcards to enhance learning and retention.</td>
+    <td>A React front-end and Django back-end application designed for newcomers to technical interview preparation. It offers a focused introduction to LeetCode problem categories and essential Python concepts, featuring detailed examples and interactive flashcards to enhance learning and retention.</td>
   </tr>
 </table>
 
