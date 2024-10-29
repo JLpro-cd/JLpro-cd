@@ -30,8 +30,8 @@
 </table>
 
 ## Skills
-- **Languages:** Python, Java, C++/C, JavaScript, SQL
-- **Frameworks/Libraries** React, Django
+- **Languages:** Python, Java, C++/C, JavaScript, SQL, and more
+- **Frameworks/Libraries** React, Django, Play, and more
 
 ## Feel free to contact me or connect with me on LinkedIn:
 - josuelopezpro@gmail.com
