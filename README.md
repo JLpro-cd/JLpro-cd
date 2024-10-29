@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/FEMR/femr">fast Electronic Medical Records</a></td>
-    <td>fEMR is a fast EMR solution for remote clinics who depend on speed and ease of use rather than complex features.</td>
+    <td>fEMR is an open-source, non-profit fast EMR solution for remote clinics who depend on speed and ease of use rather than complex features.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Castro19/ccc-transfer-helper">CCC Transfer Helper</a></td>
