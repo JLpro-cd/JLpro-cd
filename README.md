@@ -30,7 +30,7 @@
 </table>
 
 ## Skills
-- **Languages:** Python, Java, Scala, C++, C, JavaScript, SQL, and more
+- **Languages:** Python, Java, C++, C, Scala, JavaScript, SQL, and more
 - **Frameworks/Libraries** React, Django, Play, and more
 
 ## Feel free to contact me or connect with me on LinkedIn:
