@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Hello, and welcome to my GitHub profile! I am currently a Senior studying Computer Science at Cal Poly San Luis Obispo.
+  Hello, and welcome to my GitHub profile! I am a Computer Science alum from Cal Poly San Luis Obispo.
   <br><br>
    I am passionate about both front-end and back-end development, along with all things tech. I love picking up new skills, especially those that help me make a positive impact on myself and others!
 </p>
